@@ -1,1 +1,1 @@
-# Page-prot-g-e-par-mot-de-passe
+# Page-protegee-par-mot-de-passe
